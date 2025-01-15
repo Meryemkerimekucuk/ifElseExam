@@ -25,3 +25,36 @@ Proje, aşağıdaki senaryoları içeren örnek Java kodlarını içermektedir:
 
 Bu projeyi incelediğiniz için teşekkür ederim! Kod yazarken iyi çalışmalar dilerim.
 
+
+# Java Project: Conditional Statements Examples
+
+This project contains various if-else examples written in Java. The aim is to help users understand conditional statements and demonstrate their real-world applications.
+
+## Project Description
+
+The project includes example Java code covering the following scenarios:
+
+1. **Grade Calculation**: Calculates the overall grade average based on the user's midterm and final exam scores and determines the success status.
+2. **Driving License Age Check**: Verifies if the user's age meets the requirements for obtaining a driving license.
+3. **Finding the Largest Number**: Identifies the largest number among three numbers provided by the user.
+
+
+
+### Example User Interactions
+
+- The user inputs midterm and final exam scores, and the program calculates and displays the overall average and success status.
+- The user's age is checked to determine if they meet the driving license age requirement.
+- The program identifies and displays the largest number among three user-provided numbers.
+
+
+
+## Author
+
+ If you have any questions, feel free to contact me at (meryemkerimekucuk@gmail.com).
+
+---
+
+Thank you for exploring this project! Happy coding!
+
+
+
